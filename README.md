@@ -17,7 +17,7 @@ Ten socioeconomic and development indicators are used to compare regional averag
 
 The visualization highlights how each region compares across these indicators and identifies the metrics in which a selected region has the highest average among all six regions.
 
-![Regional Development Visualization](images/visualization.png)
+![Regional Development Visualization](Visualization.png)
 
 ## Data
 
